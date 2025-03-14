@@ -206,3 +206,5 @@ reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protecti
 
 # 至此，探究结束在了这，欢迎贡献思路，方法！🎮
 
+# © 2023 GitHub • Code of sunlightLT of sun12yyds
+
