@@ -203,3 +203,6 @@ reg delete "HKLM\SOFTWARE\Microsoft\Windows Defender\Features" /v UI /f
 reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v DisableAntiSpyware /f
 reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v DisableRealtimeMonitoring /f
 ```
+
+# 至此，探究结束在了这，欢迎贡献思路，方法！🎮
+
