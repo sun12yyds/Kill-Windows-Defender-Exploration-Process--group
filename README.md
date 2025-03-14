@@ -17,13 +17,16 @@ Set-MpPreference -DisableRealtimeMonitoring $true
 
 代码：
 ```
-# 以管理员身份运行此脚本
 
 # 禁用实时保护
+```
 Set-MpPreference -DisableRealtimeMonitoring $true
+```
 
 # 禁用 Windows Defender 服务
+```
 Set-Service -Name WinDefend -StartupType Disabled
+```
 
 # 禁用 Windows Defender 通过组策略
 ```
