@@ -26,6 +26,7 @@ Set-MpPreference -DisableRealtimeMonitoring $true
 Set-Service -Name WinDefend -StartupType Disabled
 
 # 禁用 Windows Defender 通过组策略
+```
 $registryPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows Defender"
 $name = "DisableAntiSpyware"
 $value = 1
