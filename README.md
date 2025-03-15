@@ -1,4 +1,4 @@
-# Kill Windows Defender Exploration Process group文章合集
+1# Kill Windows Defender Exploration Process group文章合集
 基于前一仓库的合计，具体链接🔗：![GO](https://github.com/sun12yyds/Kill-Windows-Defender-Exploration-Process)
 # 文章合集🎲：
 1.Chapter 1
@@ -206,5 +206,5 @@ reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protecti
 
 # 至此，探究结束在了这，欢迎贡献思路，方法！🎮
 
-# © 2023 GitHub • Code of sunlightLT of sun12yyds
+© 2024 GitHub • Code of sunlightLT of sun12yyds
 
